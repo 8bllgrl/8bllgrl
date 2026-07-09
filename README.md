@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bllgrl&layout=compact&theme=highcontrast" width="500">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=8bllgrl&layout=compact&theme=highcontrast" width="500">
 </div>
-  <br>
+<br>
 <div align="center">
   <a href="https://github.com/8bllgrl/PostgreSQL-CSV-parser" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=8bllgrl&repo=PostgreSQL-CSV-parser&theme=gotham" width="400">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=8bllgrl&repo=PostgreSQL-CSV-parser&theme=gotham" width="400">
   </a>
+</div>
